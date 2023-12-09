@@ -6,14 +6,14 @@
         <DisplayName>zeiss</DisplayName>
       </User>
       <Document>
-        <Name>20230804 03 CTRL SOX2</Name>
+        <Name>20230804 08 CTRL SOX2</Name>
         <Description/>
         <Comment/>
         <UserName>zeiss</UserName>
-        <CreationDate>2023-08-04T10:34:08</CreationDate>
+        <CreationDate>2023-08-04T11:03:57</CreationDate>
         <SubType>Image</SubType>
         <Rating>0</Rating>
-        <Title>20230804 03 CTRL SOX2</Title>
+        <Title>20230804 08 CTRL SOX2</Title>
       </Document>
       <Image>
         <OriginalScanData>true</OriginalScanData>
@@ -21,7 +21,7 @@
         <ComponentBitCount>16</ComponentBitCount>
         <SizeX>2292</SizeX>
         <SizeY>2292</SizeY>
-        <SizeZ>9</SizeZ>
+        <SizeZ>8</SizeZ>
         <SizeC>3</SizeC>
         <MicroscopeRef Id="Microscope:0"/>
         <ObjectiveSettings>
@@ -80,10 +80,10 @@
                 <Mode>Off</Mode>
                 <VirtualPinholeSize>1</VirtualPinholeSize>
                 <Magnification>1</Magnification>
-                <TransformationXX>3.3501008557564744e-310</TransformationXX>
-                <TransformationXY>3.3501008557574625e-310</TransformationXY>
-                <TransformationYX>1.1213471799575181e-311</TransformationYX>
-                <TransformationYY>1.1213471799377555e-311</TransformationYY>
+                <TransformationXX>3.3545570469658211e-310</TransformationXX>
+                <TransformationXY>3.3545570469658211e-310</TransformationXY>
+                <TransformationYX>1.1226734010623416e-311</TransformationYX>
+                <TransformationYY>1.1226734011018669e-311</TransformationYY>
               </AiryscanSettings>
             </Channel>
             <Channel Id="291519846112230483308459122421422626474" Name="T PMT-T1">
@@ -128,10 +128,10 @@
                 <Mode>Off</Mode>
                 <VirtualPinholeSize>1</VirtualPinholeSize>
                 <Magnification>1</Magnification>
-                <TransformationXX>3.3501008557564744e-310</TransformationXX>
-                <TransformationXY>3.3501008557574625e-310</TransformationXY>
-                <TransformationYX>1.1213471799575181e-311</TransformationYX>
-                <TransformationYY>1.1213471799377555e-311</TransformationYY>
+                <TransformationXX>3.3545570469658211e-310</TransformationXX>
+                <TransformationXY>3.3545570469658211e-310</TransformationXY>
+                <TransformationYX>1.1226734010623416e-311</TransformationYX>
+                <TransformationYY>1.1226734011018669e-311</TransformationYY>
               </AiryscanSettings>
             </Channel>
             <Channel Id="15997414751094110823874734759983397868" Name="Ch1-T2">
@@ -164,12 +164,12 @@
                 <PhotonConversionFactor>51.703120596681593</PhotonConversionFactor>
                 <Gain>770</Gain>
                 <DigitalGain>1</DigitalGain>
-                <Offset>100</Offset>
+                <Offset>130</Offset>
               </DetectorSettings>
               <LightSourcesSettings>
                 <LightSourceSettings>
                   <LightSource Id="LightSource:0"/>
-                  <Attenuation>0.98499999999999999</Attenuation>
+                  <Attenuation>0.99399999999999999</Attenuation>
                   <Wavelength>405.00000000000006</Wavelength>
                   <Polarization>
                     <StokesParameter1>1</StokesParameter1>
@@ -183,10 +183,10 @@
                 <Mode>Off</Mode>
                 <VirtualPinholeSize>1</VirtualPinholeSize>
                 <Magnification>1</Magnification>
-                <TransformationXX>0</TransformationXX>
-                <TransformationXY>0</TransformationXY>
-                <TransformationYX>0</TransformationYX>
-                <TransformationYY>0</TransformationYY>
+                <TransformationXX>1.1213139013240546e-311</TransformationXX>
+                <TransformationXY>1.1213139019880788e-311</TransformationXY>
+                <TransformationYX>1.1213139027232485e-311</TransformationYX>
+                <TransformationYY>1.1213139019169334e-311</TransformationYY>
               </AiryscanSettings>
             </Channel>
           </Channels>
@@ -223,7 +223,7 @@
             <Scenes>
               <Scene Index="0">
                 <Positions>
-                  <Position X="20705.2" Y="-754.6" Z="351.926"/>
+                  <Position X="23133.3" Y="2323.6" Z="347.52"/>
                 </Positions>
               </Scene>
             </Scenes>
@@ -387,7 +387,7 @@
             <DimensionT>10</DimensionT>
             <DimensionX>2292</DimensionX>
             <DimensionY>2292</DimensionY>
-            <DimensionZ>9</DimensionZ>
+            <DimensionZ>8</DimensionZ>
             <FilterMethod>Average</FilterMethod>
             <FilterMode>Line</FilterMode>
             <FilterSamplingNumber>2</FilterSamplingNumber>
@@ -400,8 +400,8 @@
             <Objective>Plan-Apochromat 20x/0.8 M27</Objective>
             <OffsetX>0</OffsetX>
             <OffsetY>0</OffsetY>
-            <OffsetZ>8.2340000000000367e-006</OffsetZ>
-            <ReferenceZ>0.00036015999999999999</ReferenceZ>
+            <OffsetZ>6.3250000000000453e-006</OffsetZ>
+            <ReferenceZ>0.00035384499999999998</ReferenceZ>
             <PixelPeriod>9.16e-007</PixelPeriod>
             <Rotation>0</Rotation>
             <AcquisitionMode>StackFocus</AcquisitionMode>
@@ -529,10 +529,10 @@
                   <AiryScanMode>Off</AiryScanMode>
                   <AiryScanVirtualPinholeSize>1</AiryScanVirtualPinholeSize>
                   <AiryScanMagnification>1</AiryScanMagnification>
-                  <AiryScanTransformationXX>3.3501008557564744e-310</AiryScanTransformationXX>
-                  <AiryScanTransformationXY>3.3501008557574625e-310</AiryScanTransformationXY>
-                  <AiryScanTransformationYX>1.1213471799575181e-311</AiryScanTransformationYX>
-                  <AiryScanTransformationYY>1.1213471799377555e-311</AiryScanTransformationYY>
+                  <AiryScanTransformationXX>3.3545570469658211e-310</AiryScanTransformationXX>
+                  <AiryScanTransformationXY>3.3545570469658211e-310</AiryScanTransformationXY>
+                  <AiryScanTransformationYX>1.1226734010623416e-311</AiryScanTransformationYX>
+                  <AiryScanTransformationYY>1.1226734011018669e-311</AiryScanTransformationYY>
                 </Detector>
                 <Detector Name="" Id="291519846112230483308459122421422626474">
                   <DetectorIdentifier>NonDescannedTransmissionPmt1</DetectorIdentifier>
@@ -554,10 +554,10 @@
                   <AiryScanMode>Off</AiryScanMode>
                   <AiryScanVirtualPinholeSize>1</AiryScanVirtualPinholeSize>
                   <AiryScanMagnification>1</AiryScanMagnification>
-                  <AiryScanTransformationXX>3.3501008557564744e-310</AiryScanTransformationXX>
-                  <AiryScanTransformationXY>3.3501008557574625e-310</AiryScanTransformationXY>
-                  <AiryScanTransformationYX>1.1213471799575181e-311</AiryScanTransformationYX>
-                  <AiryScanTransformationYY>1.1213471799377555e-311</AiryScanTransformationYY>
+                  <AiryScanTransformationXX>3.3545570469658211e-310</AiryScanTransformationXX>
+                  <AiryScanTransformationXY>3.3545570469658211e-310</AiryScanTransformationXY>
+                  <AiryScanTransformationYX>1.1226734010623416e-311</AiryScanTransformationYX>
+                  <AiryScanTransformationYY>1.1226734011018669e-311</AiryScanTransformationYY>
                 </Detector>
               </Detectors>
               <CenterWavelength>5.5288795600000007e-007</CenterWavelength>
@@ -582,7 +582,7 @@
               <Attenuators>
                 <Attenuator>
                   <Wavelength>4.0500000000000004e-007</Wavelength>
-                  <Transmission>0.014999999999999999</Transmission>
+                  <Transmission>0.0060000000000000001</Transmission>
                   <LaserSuppression>false</LaserSuppression>
                   <ExcitationIntensity>0</ExcitationIntensity>
                   <Laser>Diode 405-30</Laser>
@@ -632,7 +632,7 @@
                   <ImageChannelName>Ch1</ImageChannelName>
                   <Voltage>770</Voltage>
                   <AmplifierGain>1</AmplifierGain>
-                  <AmplifierOffset>100</AmplifierOffset>
+                  <AmplifierOffset>130</AmplifierOffset>
                   <PinholeDiameter>2.6317599999999997e-005</PinholeDiameter>
                   <SpectralScanChannels>32</SpectralScanChannels>
                   <Dye>DAPI</Dye>
@@ -652,10 +652,10 @@
                   <AiryScanMode>Off</AiryScanMode>
                   <AiryScanVirtualPinholeSize>1</AiryScanVirtualPinholeSize>
                   <AiryScanMagnification>1</AiryScanMagnification>
-                  <AiryScanTransformationXX>0</AiryScanTransformationXX>
-                  <AiryScanTransformationXY>0</AiryScanTransformationXY>
-                  <AiryScanTransformationYX>0</AiryScanTransformationYX>
-                  <AiryScanTransformationYY>0</AiryScanTransformationYY>
+                  <AiryScanTransformationXX>1.1213139013240546e-311</AiryScanTransformationXX>
+                  <AiryScanTransformationXY>1.1213139019880788e-311</AiryScanTransformationXY>
+                  <AiryScanTransformationYX>1.1213139027232485e-311</AiryScanTransformationYX>
+                  <AiryScanTransformationYY>1.1213139019169334e-311</AiryScanTransformationYY>
                 </Detector>
               </Detectors>
               <CenterWavelength>5.5288795600000007e-007</CenterWavelength>

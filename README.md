@@ -10,3 +10,4 @@ Notebooks:
 - `pipeline_sph1_slice3_artificial_boundary.ipynb` is a cleaned copy of `pipeline_sph1_slice3.ipynb`, sticking to the new approach of introducing artificial points in the Voronoi diagram for bounding the regions of the outer cells of the spheroid, that otherwise would have divergent areas.
 - `pipeline_sph1_slice4_artificial_boundary.ipynb` is a copy of the previous one for slice 3 that incorporates some additional results, like the analysis for the robustness of the clustering when varying the random state and the analysis of the graph given by the Delaunay triangulation.
 - `pipeline_sph1_slice3_artificial_boundary_NEW.ipynb` is a copy of the previous notebook for running the additional results for slice 3 of sph1.
+- `pipeline_sph3_slice3_artificial_boundary.ipynb` is a copy of `pipeline_sph1_slice4_artificial_boundary.ipynb` for running the additional results for this case.

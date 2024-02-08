@@ -1,4 +1,5 @@
 # Analysis of Confocal Microscopy Images of Tumorspheres
+Code for analyzing confocal microscopy images. The `.czi` stack files for each spheroid can be found in the `data` directory. For the analysis of each one of them, refer to the list of “current pipelines” at the end of the Contents section.
 
 ## Contents
 Notebooks:

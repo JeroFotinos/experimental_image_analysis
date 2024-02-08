@@ -12,3 +12,9 @@ Notebooks:
 - `pipeline_sph1_slice3_artificial_boundary_NEW.ipynb` is a copy of the previous notebook for running the additional results for slice 3 of sph1.
 - `pipeline_sph3_slice3_artificial_boundary.ipynb` is a copy of `pipeline_sph1_slice4_artificial_boundary.ipynb` for running the additional results for this case.
 - `pipeline_sph4_slice2_artificial_boundary.ipynb` is a copy of `pipeline_sph3_slice3_artificial_boundary.ipynb` for running the additional results for this case.
+
+Current pipelines:
+- For `Sph1`, slice 3, `pipeline_sph1_slice3_artificial_boundary_NEW.ipynb`;
+- For `Sph1`, slice 4, `pipeline_sph1_slice4_artificial_boundary.ipynb`;
+- For `Sph3`, slice 3, `pipeline_sph3_slice3_artificial_boundary.ipynb`;
+- For `Sph4`, slice 2, `pipeline_sph4_slice2_artificial_boundary.ipynb`.

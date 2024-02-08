@@ -1,6 +1,8 @@
 # Analysis of Confocal Microscopy Images of Tumorspheres
 Code for analyzing confocal microscopy images. The `.czi` stack files for each spheroid can be found in the `data` directory. For the analysis of each one of them, refer to the list of “current pipelines” at the end of the Contents section.
 
+![](https://github.com/JeroFotinos/experimental_image_analysis/raw/main/results/sph1_reprocessed/slice_3/nuclei_voronoi_in_sph_only_sox2_clustered_tails_cut_in_sph_with_artificial_boundary_cropped_NEW.png)
+
 ## Contents
 Notebooks:
 - `Experimental Image Analysis.ipynb` is the first notebook ever, I mostly used it to explore the file format and Napari.
